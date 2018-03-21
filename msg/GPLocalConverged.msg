@@ -1,0 +1,14 @@
+uint32 seq
+time stamp
+string frame_id
+float64 x_position
+float64 y_position
+float64 z_position
+float64 x_quat
+float64 y_quat
+float64 z_quat
+float64 w_quat
+float64 wind_U
+float64 wind_V
+float64 wind_W
+float64 temp

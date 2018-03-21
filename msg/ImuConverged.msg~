@@ -1,0 +1,15 @@
+uint32 seq
+time stamp
+string frame_id
+float64 x
+float64 y
+float64 z
+float64[9] angular_velocity_covariance
+float64 x
+float64 y
+float64 z
+float64[9] linear_acceleration_covariance
+string wind_U
+string wind_V
+string wind_W
+string temp
