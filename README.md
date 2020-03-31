@@ -35,5 +35,6 @@ Please read the sonic anemometer user manual for further settings
 SATI_User_Manual.pdf
 ```
 The 2018 Aviation conference paper this ROS-node is referenced can be found [here]
+
 [here]: https://doi.org/10.2514/6.2018-4218
 
