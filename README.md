@@ -17,7 +17,8 @@ Run launch file from command line:
 ```
 roslaunch anemometer sas.launch
 ```
-Now start a bag file to log all data. While logged into RPi type the following commands:
+## Otherwise, now start a bag file to log all data. 
+While logged into RPi type the following commands:
 ```
 cd bag_files
 mkdir <test name>
