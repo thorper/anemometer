@@ -13,11 +13,12 @@ Pixhawk must be installed and connected to RaspberryPi3. While logged into RPi c
 cd /dev
 sudo chmod 777 /dev/ttyS0
 ```  
+## Start reading wind data
 Run launch file from command line:
 ```
 roslaunch anemometer sas.launch
 ```
-## Otherwise, now start a bag file to log all data. 
+## Now start a bag file to log pixhawk and wind data. 
 While logged into RPi type the following commands:
 ```
 cd bag_files
