@@ -30,3 +30,7 @@ When testing is complete type:
 ```
 ctrl + C
 ```
+Please read the sonic anemometer user manual for further settings
+```
+SATI_User_Manual.pdf
+```
