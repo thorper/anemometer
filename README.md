@@ -1,7 +1,7 @@
 # Anemometer
 This node will listen for an IMU message streaming from the Pixhawk. This message is the mavros/imu topic and it's streamed at 50 hz. Once this message is heard by ROS a trigger is sent to the sonic anemometer for a reading. This reading is sent back to the RPi. If the user wanted to save the sonic anemometer data alongside the Pixhawk data a bag file must be started to log all the data.
 
-##If needed, check connectivity of the sensors.
+## If needed, check connectivity of the sensors.
 
 Anemometer must be installed and connected to RaspberryPi3. While logged into RPi check with the following commands:
 ```
