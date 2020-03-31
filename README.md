@@ -14,7 +14,7 @@ cd /dev
 sudo chmod 777 /dev/ttyS0
 ```  
 ## Start reading wind data
-Run launch file from command line:
+While logged into RPi run launch file from command line:
 ```
 roslaunch anemometer sas.launch
 ```
